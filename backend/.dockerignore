@@ -1,0 +1,9 @@
+.env
+tmp/
+*.exe
+*.exe~
+*.test
+*.out
+.git
+.gitignore
+README.md
